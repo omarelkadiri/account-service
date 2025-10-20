@@ -35,10 +35,6 @@ Cette section met en avant les principales fonctionnalités et résultats du pro
 ![Interface de la base de données H2](https://raw.githubusercontent.com/omarelkadiri/account-service/master/src/Screens/h2-db-interface.png)  
 *Présente l'interface de la base de données H2, illustrant la persistance des données des comptes bancaires dans la base embarquée.*
 
-### Notes
-- Certaines images (comme `Get_single_bank_account.png` et `main.png`) n'ont pas pu être localisées ou semblent absentes du dépôt. Si elles existent sous un nom différent, ajoutez-les manuellement.
-- Copiez-collez cette section directement dans votre `README.md` à la fin du fichier ou dans la partie appropriée. GitHub rendra les images automatiquement visibles lors de l'affichage du README.
-- Si le dossier est `Screens` (avec S majuscule) et non `screens`, assurez-vous que les chemins dans les liens correspondent exactement (comme indiqué ci-dessus). Testez en commitant et pushant les changements sur GitHub.
 
 - **[h2-db-interface.png](src/screens/h2-db-interface.png)**  
   Présente l'interface de la base de données H2, illustrant la persistance des données des comptes bancaires dans la base embarquée.
